@@ -1,0 +1,6 @@
+# Metadata files
+.DS_Store
+
+# Frontend
+.sass-cache
+bower_components
